@@ -28,6 +28,5 @@ Some Feature:
 <img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" height="300">
 Electrode test recording on muscle Arm (easier to detect)
 
-
 The final goal of this side project is to record brainwave frequencies (alpha and beta waves) through EEG measurements.
-With the help of an ESP32 and [an analog front-end amplification](https://github.com/upsidedownlabs/BioAmp-EXG-Pill/blob/main/software/EEGFilter/EEGFilter.ino) made by the upsidedownlabs Company.
+With the help of an ESP32 and an [analog front-end amplification](https://github.com/upsidedownlabs/BioAmp-EXG-Pill/blob/main/software/EEGFilter/EEGFilter.ino) made by the upsidedownlabs Company.
