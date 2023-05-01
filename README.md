@@ -25,7 +25,7 @@ Some Feature:
 - When the user is connected, the sensor readings are updated in real-time instead of only every 6 hours.
 
 ## BioAmp_EXG_Pill_EEG_recording_ESP32.ino
-<img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" height="300">
 Electrode test recording on muscle Arm (easier to detect)
 
 The goal of this side project is to record brainwave frequencies (alpha and beta waves) through EEG measurements.
