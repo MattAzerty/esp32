@@ -25,10 +25,9 @@ Some Feature:
 - Sensor readings are updated in real-time on Firebase instead of only every 6 hours when the user is connected.
 
 ## BioAmp_EXG_Pill_EEG_recording_ESP32.ino
-<img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" height="300">
--Electrode test recording on muscle Arm (easier to detect)
+<img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" height="300"> -Electrode test recording on muscle Arm (easier to detect)
+
 
 The final goal of this side project is to record brainwave frequencies (alpha and beta waves) through EEG measurements.
 With the help of an ESP32 and an [analog front-end amplification](https://github.com/upsidedownlabs/BioAmp-EXG-Pill/blob/main/software/EEGFilter/EEGFilter.ino) made by the upsidedownlabs Company.
-<img src="https://user-images.githubusercontent.com/21226834/235469761-248f4fae-6f3b-4e28-9edc-3314f5b365a8.png" width="500">
--Test UI ideas.
+<img src="https://user-images.githubusercontent.com/21226834/235469761-248f4fae-6f3b-4e28-9edc-3314f5b365a8.png" width="500"> -Test UI ideas.
