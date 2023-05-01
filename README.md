@@ -13,7 +13,9 @@ Some of the key features of the ESP32 include:
 - Low power consumption and deep sleep modes, making it ideal for battery-powered applications
 
 ## RoomSystem_ambiantSystem_ESP32HELTEC.ino
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/21226834/235457033-428f8851-c87e-459a-891a-dc784a094a4d.jpg" width="500"></div>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/21226834/235457033-428f8851-c87e-459a-891a-dc784a094a4d.jpg">
+</p>
 
 I have developed this driver for the [RoomSytem](https://github.com/MattAzerty/RoomSystem) project, which was created to experiment with Kotlin.
 
@@ -24,6 +26,6 @@ Some Feature:
 - When the user is connected, the sensor readings are updated in real-time instead of only every 6 hours.
 
 ## BioAmp_EXG_Pill_EEG_recording_ESP32.ino
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" width="500"></div>
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/21226834/235460151-26c4f648-89e7-479d-8dcf-a0b71a80d0a8.jpg" height="500"></div>
 The goal of this side project is to record brainwave frequencies (alpha and beta waves) through EEG measurements.
 With the help of an ESP32 and [an analog front-end amplification](https://github.com/upsidedownlabs/BioAmp-EXG-Pill/blob/main/software/EEGFilter/EEGFilter.ino) made by the upsidedownlabs Company.
