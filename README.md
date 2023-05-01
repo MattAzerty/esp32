@@ -12,7 +12,7 @@ Some of the key features of the ESP32 include:
 - Low power consumption and deep sleep modes, making it ideal for battery-powered applications
 
 ## RoomSystem_ambiantSystem_ESP32HELTEC.ino
-![PXL_20230228_072909582](https://user-images.githubusercontent.com/21226834/235457033-428f8851-c87e-459a-891a-dc784a094a4d.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/21226834/235457033-428f8851-c87e-459a-891a-dc784a094a4d.jpg" width="500">
 
 This diriver made is part of the project [RoomSytem](https://github.com/MattAzerty/RoomSystem)
 
